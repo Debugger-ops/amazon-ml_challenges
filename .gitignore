@@ -1,16 +1,4 @@
-__pycache__/
-*.py[cod]
-*.log
 .venv/
-venv/
-.env
-.env.*
+__pycache__/
+*.pyc
 .DS_Store
-
-# ML outputs
-*.pkl
-*.pickle
-*.joblib
-
-# Large datasets
-data/
